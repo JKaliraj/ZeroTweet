@@ -1,6 +1,6 @@
 from flask import Flask
 import requests
-from . import keys
+import keys
 
 app = Flask(__name__)
 
